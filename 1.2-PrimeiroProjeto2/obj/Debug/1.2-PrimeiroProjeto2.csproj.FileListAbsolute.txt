@@ -1,0 +1,8 @@
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\bin\Debug\1.2-PrimeiroProjeto2.exe.config
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\bin\Debug\1.2-PrimeiroProjeto2.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\bin\Debug\1.2-PrimeiroProjeto2.pdb
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\obj\Debug\1.2-PrimeiroProjeto2.csproj.AssemblyReference.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\obj\Debug\1.2-PrimeiroProjeto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\obj\Debug\1.2-PrimeiroProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\obj\Debug\1.2-PrimeiroProjeto2.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\1.2-PrimeiroProjeto2\obj\Debug\1.2-PrimeiroProjeto2.pdb

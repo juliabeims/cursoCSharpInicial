@@ -1,0 +1,8 @@
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\bin\Debug\6-atribuicoesAVariaveis.exe.config
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\bin\Debug\6-atribuicoesAVariaveis.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\bin\Debug\6-atribuicoesAVariaveis.pdb
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\obj\Debug\6-atribuicoesAVariaveis.csproj.AssemblyReference.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\obj\Debug\6-atribuicoesAVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\obj\Debug\6-atribuicoesAVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\obj\Debug\6-atribuicoesAVariaveis.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\6-atribuicoesAVariaveis\obj\Debug\6-atribuicoesAVariaveis.pdb

@@ -1,0 +1,8 @@
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

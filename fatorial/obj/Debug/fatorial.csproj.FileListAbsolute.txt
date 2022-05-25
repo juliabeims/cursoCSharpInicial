@@ -1,0 +1,8 @@
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\obj\Debug\fatorial.csproj.AssemblyReference.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\obj\Debug\fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\obj\Debug\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\bin\Debug\fatorial.exe.config
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\bin\Debug\fatorial.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\bin\Debug\fatorial.pdb
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\obj\Debug\fatorial.exe
+C:\Users\Julia.Beims\source\repos\1.2-PrimeiroProjeto2\fatorial\obj\Debug\fatorial.pdb
